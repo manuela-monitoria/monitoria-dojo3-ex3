@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SEXTA-D3-EX3/src"/>
+	<classpathentry kind="output" path="SEXTA-D3-EX3/out/production/SEXTA-D3-EX3"/>
+</classpath>
